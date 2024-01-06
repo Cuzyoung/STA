@@ -1,3 +1,3 @@
 # Happy to announce STA is accepted by ACM MM 2023!🎉🎉🎉
-Train One, Generalize to All: Generalizable Semantic Segmentation from Single-Scene to All Adverse Scenes
+Train One, Generalize to All: Generalizable Semantic Segmentation from Single-Scene to All Adverse Scenes \\
 We will release the code of STA after ECCV DDL. 🥰🥰🥰
